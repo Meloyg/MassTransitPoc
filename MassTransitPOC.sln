@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F814D269-3C14-4A1A-8468-15F59514C379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{834684BA-DA10-42FA-BC92-D8230E6F033B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F814D269-3C14-4A1A-8468-15F59514C379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F814D269-3C14-4A1A-8468-15F59514C379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F814D269-3C14-4A1A-8468-15F59514C379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834684BA-DA10-42FA-BC92-D8230E6F033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834684BA-DA10-42FA-BC92-D8230E6F033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834684BA-DA10-42FA-BC92-D8230E6F033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834684BA-DA10-42FA-BC92-D8230E6F033B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
